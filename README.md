@@ -1,7 +1,7 @@
 # command_vim
 vim常用命令
 
-b：同行向前
+b：同行向前  
 e：同行向后
 
 shift+$：跳到行尾
